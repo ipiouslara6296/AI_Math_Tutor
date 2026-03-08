@@ -1,7 +1,7 @@
 # AI Math Tutor — Image-Based Algebra Solver
 
-Team Members:
-
+**Team Members:
+**
 |       NAME       |    ROLE   |          EMAIL         |
 |:----------------:|:---------:|:----------------------:|
 |   Pious Lara I   | Team Lead | 6296@velsrscollege.com |
