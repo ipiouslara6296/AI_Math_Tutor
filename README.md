@@ -1,5 +1,11 @@
 # AI Math Tutor — Image-Based Algebra Solver
 
+NAME	ROLE	EMAIL
+Pious Lara I	Team Lead	6296@velsrscollege.com
+Vijay R	Member	6334@velsrscollege.com
+Sarugeshwaran S 	Member	6315@velsrscollege.com
+Mukesh P	Member	6289@velsrscollege.com
+
 This project is a Streamlit app that accepts an image of an algebra problem, converts it to LaTeX, solves symbolically and numerically using SymPy, checks for common mistakes, and presents a step-by-step solution card.
 
 Key files:
